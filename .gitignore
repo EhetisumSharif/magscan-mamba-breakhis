@@ -1,0 +1,9 @@
+# model checkpoints and caches are too large for the repository
+*.pt
+*.pth
+ood_cache/
+magscan_tokens/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
